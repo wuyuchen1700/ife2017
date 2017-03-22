@@ -550,8 +550,10 @@ p:first-child{
 .footer .email{
 	width: 430px;
 	height: 40px;
-	margin-left: 410px;
-	border: 0;
+	margin:0 auto;
+	border: none;
+	outline:none;
+	
 }
 .footer .btn{
 	width: 80px;
